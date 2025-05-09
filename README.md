@@ -1,0 +1,2 @@
+# australia-rainfall-prediction
+This project utilizes historical weather data and machine learning techniques to predict rainfall in Australia. By analyzing meteorological variables such as temperature, humidity, and wind speed, the model aims to provide accurate forecasts that can assist in climate studies and agricultural planning. The project leverages Python libraries like Pandas, Scikit-Learn, and Matplotlib for data preprocessing, model training, and visualization.
